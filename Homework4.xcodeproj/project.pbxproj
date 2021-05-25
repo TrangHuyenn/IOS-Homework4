@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		0C8F9C69265CF45800A9C7CB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C8F9C68265CF45800A9C7CB /* main.swift */; };
+		0C8F9C70265CFAC400A9C7CB /* Bai1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C8F9C6F265CFAC400A9C7CB /* Bai1.swift */; };
+		0C8F9C72265CFF3700A9C7CB /* Bai2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C8F9C71265CFF3700A9C7CB /* Bai2.swift */; };
+		0C8F9C74265D084A00A9C7CB /* Bai4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C8F9C73265D084A00A9C7CB /* Bai4.swift */; };
+		0C8F9C76265D4A3A00A9C7CB /* Bai3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C8F9C75265D4A3A00A9C7CB /* Bai3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		0C8F9C65265CF45800A9C7CB /* Homework4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Homework4; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C8F9C68265CF45800A9C7CB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		0C8F9C6F265CFAC400A9C7CB /* Bai1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai1.swift; sourceTree = "<group>"; };
+		0C8F9C71265CFF3700A9C7CB /* Bai2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai2.swift; sourceTree = "<group>"; };
+		0C8F9C73265D084A00A9C7CB /* Bai4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai4.swift; sourceTree = "<group>"; };
+		0C8F9C75265D4A3A00A9C7CB /* Bai3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				0C8F9C68265CF45800A9C7CB /* main.swift */,
+				0C8F9C6F265CFAC400A9C7CB /* Bai1.swift */,
+				0C8F9C71265CFF3700A9C7CB /* Bai2.swift */,
+				0C8F9C75265D4A3A00A9C7CB /* Bai3.swift */,
+				0C8F9C73265D084A00A9C7CB /* Bai4.swift */,
 			);
 			path = Homework4;
 			sourceTree = "<group>";
@@ -119,6 +131,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C8F9C70265CFAC400A9C7CB /* Bai1.swift in Sources */,
+				0C8F9C74265D084A00A9C7CB /* Bai4.swift in Sources */,
+				0C8F9C72265CFF3700A9C7CB /* Bai2.swift in Sources */,
+				0C8F9C76265D4A3A00A9C7CB /* Bai3.swift in Sources */,
 				0C8F9C69265CF45800A9C7CB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
